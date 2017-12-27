@@ -17,5 +17,6 @@
   </dependencies>
   <modules>
     <module>jetty-server</module>
+    <module>restserver</module>
   </modules>
 </project>
